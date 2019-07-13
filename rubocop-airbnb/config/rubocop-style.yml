@@ -733,7 +733,7 @@ Style/RedundantReturn:
 Style/RedundantSelf:
   Description: Don't use self where it's not needed.
   StyleGuide: https://github.com/rubocop-hq/ruby-style-guide#no-self-unless-required
-  Enabled: true
+  Enabled: false
 
 # Supports --auto-correct
 Style/RegexpLiteral:
