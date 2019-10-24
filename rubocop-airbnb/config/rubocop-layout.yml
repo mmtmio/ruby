@@ -101,7 +101,7 @@ Layout/DefEndAlignment:
 # Use trailing commas, because there are safer in ruby.
 Layout/DotPosition:
   Enabled: true
-  EnforcedStyle: trailing
+  EnforcedStyle: "leading"
 
 # Supports --auto-correct
 Layout/ElseAlignment:
