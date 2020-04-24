@@ -362,10 +362,9 @@ Style/GlobalVars:
 Style/GuardClause:
   Enabled: false
 
-# Don't force colon-style hash pairs. Sometimes ya just don't want 'em.
-# (Allen approved!)
+# Force ruby 1.9 syntax - its how we write it anyway
 Style/HashSyntax:
-  Enabled: false
+  Enabled: true
 
 Style/IdenticalConditionalBranches:
   Description: Checks that conditional statements do not have an identical line at the
