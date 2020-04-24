@@ -554,3 +554,12 @@ Layout/TrailingWhitespace:
 
 Layout/FirstParameterIndentation:
   Enabled: true
+
+Layout/LineLength:
+  Max: 200
+  AllowURI: true
+
+# Supports --auto-correct
+Layout/SpaceAroundMethodCallOperator:
+  Enabled: true
+

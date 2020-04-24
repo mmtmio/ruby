@@ -304,3 +304,9 @@ Lint/UselessSetterCall:
 Lint/Void:
   Description: Possible use of operator/literal/variable in void context.
   Enabled: false
+
+Lint/RaiseException:
+  Enabled: true
+
+Lint/StructNewOverride:
+  Enabled: true

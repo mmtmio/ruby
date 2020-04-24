@@ -985,3 +985,15 @@ Style/YodaCondition:
 Style/ZeroLengthPredicate:
   Description: 'Use #empty? when testing for objects of length 0.'
   Enabled: false
+
+Style/ExponentialNotation:
+  Enabled: false
+
+Style/HashEachMethods:
+  Enabled: false
+
+Style/HashTransformKeys:
+  Enabled: false
+
+Style/HashTransformValues:
+  Enabled: false
